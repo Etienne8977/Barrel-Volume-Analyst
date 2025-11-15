@@ -1,0 +1,21 @@
+{
+  "short_name": "Barrel Analyst",
+  "name": "Barrel Volume Analyst",
+  "description": "An application to digitize tables from books about oak barrel contents using AI. Users can upload a photo of a table, have it transcribed, and then use the data to calculate the volume of a barrel based on specific measurements.",
+  "icons": [
+    {
+      "src": "./icon-192x192.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icon-512x512.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f3f4f6"
+}
