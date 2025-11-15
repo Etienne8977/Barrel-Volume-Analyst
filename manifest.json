@@ -4,12 +4,12 @@
   "description": "An application to digitize tables from books about oak barrel contents using AI. Users can upload a photo of a table, have it transcribed, and then use the data to calculate the volume of a barrel based on specific measurements.",
   "icons": [
     {
-      "src": "/icon-192x192.png",
+      "src": "./icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/icon-512x512.png",
+      "src": "./icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
